@@ -53,21 +53,21 @@ Sales are visible every day; profit is not. Nobody knows which site pays for the
 
 ## Deliverables
 
-Everything opens from **one file**, `00_START_HERE`, in any browser: pick your role, read each document, watch the presentation, search the tables and use the dashboard. Each document has one reader and one job, and the numbers agree across all of them.
+Everything opens from **one file**, *Start here* (no. 1), in any browser: pick your role, read each document, watch the presentation, search the tables and use the dashboard. Each document has one reader and one job, and the numbers agree across all of them. PowerPoint and Excel files open in the browser through Microsoft's free online viewer; *download* gives the original file.
 
 | # | File | Format | What it is |
 |---|---|---|---|
-| 00 | [Start here](https://abduwars.github.io/proquant-11-business-analytics/sample-delivery/00_START_HERE_DemoClient.html) | HTML (opens in any browser) | **One file that holds it all**: every document, the presentation, the tables and the dashboard |
-| 01 | [Report](sample-delivery/01_DemoClient_BusinessAnalytics_Report_v1.0_20261111.pdf) | PDF | *The manager*: Where the money is made and lost, with the evidence (~16 pages) |
-| 02 | [Summary](sample-delivery/02_DemoClient_BusinessAnalytics_Summary_v1.0_20261111.pdf) | PDF | *The owner*: One page: the decision, with no charts |
-| 03 | [Presentation](sample-delivery/03_DemoClient_BusinessAnalytics_Presentation_v1.0_20261111.pptx) | PowerPoint | *The management team*: **A full talk**: about 15 slides with editable charts and speaker notes, ready to present |
-| 04 | [Results Workbook](sample-delivery/04_DemoClient_BusinessAnalytics_ResultsWorkbook_v1.0_20261111.xlsx) | Excel | *The analyst*: **The working file**: a Control panel with live formulas by site, and every table. Opens on a **Read me** sheet with a linked index |
-| 05 | [Methodology](sample-delivery/05_DemoClient_BusinessAnalytics_Methodology_v1.0_20261111.pdf) | PDF | *The auditor*: How each number is built. No results |
-| 06 | [Handover Note](sample-delivery/06_DemoClient_BusinessAnalytics_HandoverNote_v1.0_20261111.pdf) | PDF | *The owner*: Who does what next, which file is for whom |
-| 07 | [Action Tracker](sample-delivery/07_DemoClient_BusinessAnalytics_ActionTracker_v1.0_20261111.xlsx) | Excel | *Each action's owner*: Every action with an owner, a date and a status drop-down; the dashboard reads it back |
-| 08 | [Data Readiness](sample-delivery/08_DemoClient_BusinessAnalytics_DataReadiness_v1.0_20261111.pdf) | PDF | *Whoever owns the data*: What the data can answer, what is missing, and the better way to collect each source |
-| 09 | [Measure Catalogue](sample-delivery/09_DemoClient_BusinessAnalytics_MeasureCatalogue_v1.0_20261111.pdf) | PDF | *Everyone*: One agreed definition for every number, and the words used for this business |
-| 10 | [Dashboard](https://abduwars.github.io/proquant-11-business-analytics/sample-delivery/10_DemoClient_BusinessAnalytics_Dashboard_v1.0_20261111.html) | HTML (opens in any browser) | *Whoever explores*: Sales by site and month (click to drill), items on sales and margin, **what-ifs** for a new site and a price change, and **Load the updated tracker** |
+| 1 | [Start here](https://abduwars.github.io/proquant-11-business-analytics/sample-delivery/00_START_HERE_DemoClient.html) | HTML (opens in any browser) | **One file that holds it all**: every document, the presentation, the tables and the dashboard |
+| 2 | [Report](sample-delivery/01_DemoClient_BusinessAnalytics_Report_v1.0_20261111.pdf) | PDF | *The manager*: Where the money is made and lost, with the evidence (~16 pages) |
+| 3 | [Summary](sample-delivery/02_DemoClient_BusinessAnalytics_Summary_v1.0_20261111.pdf) | PDF | *The owner*: One page: the decision, with no charts |
+| 4 | [Presentation](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fabduwars.github.io%2Fproquant-11-business-analytics%2Fsample-delivery%2F03_DemoClient_BusinessAnalytics_Presentation_v1.0_20261111.pptx) | PowerPoint · [download](https://raw.githubusercontent.com/AbduWars/proquant-11-business-analytics/main/sample-delivery/03_DemoClient_BusinessAnalytics_Presentation_v1.0_20261111.pptx) | *The management team*: **A full talk**: about 15 slides with editable charts and speaker notes, ready to present |
+| 5 | [Results Workbook](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fabduwars.github.io%2Fproquant-11-business-analytics%2Fsample-delivery%2F04_DemoClient_BusinessAnalytics_ResultsWorkbook_v1.0_20261111.xlsx) | Excel · [download](https://raw.githubusercontent.com/AbduWars/proquant-11-business-analytics/main/sample-delivery/04_DemoClient_BusinessAnalytics_ResultsWorkbook_v1.0_20261111.xlsx) | *The analyst*: **The working file**: a Control panel with live formulas by site, and every table. Opens on a **Read me** sheet with a linked index |
+| 6 | [Methodology](sample-delivery/05_DemoClient_BusinessAnalytics_Methodology_v1.0_20261111.pdf) | PDF | *The auditor*: How each number is built. No results |
+| 7 | [Handover Note](sample-delivery/06_DemoClient_BusinessAnalytics_HandoverNote_v1.0_20261111.pdf) | PDF | *The owner*: Who does what next, which file is for whom |
+| 8 | [Action Tracker](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fabduwars.github.io%2Fproquant-11-business-analytics%2Fsample-delivery%2F07_DemoClient_BusinessAnalytics_ActionTracker_v1.0_20261111.xlsx) | Excel · [download](https://raw.githubusercontent.com/AbduWars/proquant-11-business-analytics/main/sample-delivery/07_DemoClient_BusinessAnalytics_ActionTracker_v1.0_20261111.xlsx) | *Each action's owner*: Every action with an owner, a date and a status drop-down; the dashboard reads it back |
+| 9 | [Data Readiness](sample-delivery/08_DemoClient_BusinessAnalytics_DataReadiness_v1.0_20261111.pdf) | PDF | *Whoever owns the data*: What the data can answer, what is missing, and the better way to collect each source |
+| 10 | [Measure Catalogue](sample-delivery/09_DemoClient_BusinessAnalytics_MeasureCatalogue_v1.0_20261111.pdf) | PDF | *Everyone*: One agreed definition for every number, and the words used for this business |
+| 11 | [Dashboard](https://abduwars.github.io/proquant-11-business-analytics/sample-delivery/10_DemoClient_BusinessAnalytics_Dashboard_v1.0_20261111.html) | HTML (opens in any browser) | *Whoever explores*: Sales by site and month (click to drill), items on sales and margin, **what-ifs** for a new site and a price change, and **Load the updated tracker** |
 
 Also delivered: data-quality reports and long-format CSV / Parquet exports for Power BI or Looker Studio.
 
